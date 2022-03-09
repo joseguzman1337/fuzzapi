@@ -6,7 +6,7 @@ end
 
 ruby '2.7.2'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '7.0.2.2'
+gem 'rails', '7.0.2.3'
 # Use sqlite3 as the database for Active Record
 
 # Use SCSS for stylesheets
