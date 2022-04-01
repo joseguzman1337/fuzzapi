@@ -32,7 +32,7 @@ gem 'highcharts-rails'
 gem 'newrelic_rpm'
 gem 'sidekiq'
 gem 'bootstrap'
-gem 'puma'
+gem 'puma', '>= 5.6.4'
 gem 'pg'
 gem 'redis'
 gem 'sinatra', :require => false
