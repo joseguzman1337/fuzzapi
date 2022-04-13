@@ -6,7 +6,11 @@ end
 
 ruby '2.7.2'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+<<<<<<< HEAD
 gem 'rails', '6.1.4.2'
+=======
+gem 'rails', '7.0.2.3'
+>>>>>>> master
 # Use sqlite3 as the database for Active Record
 
 # Use SCSS for stylesheets
@@ -31,8 +35,13 @@ gem 'API_Fuzzer', git: "https://github.com/lalithr95/API-fuzzer.git"
 gem 'highcharts-rails', '>= 6.0.3'
 gem 'newrelic_rpm'
 gem 'sidekiq'
+<<<<<<< HEAD
 gem 'bootstrap', '>= 5.1.3'
 gem 'puma'
+=======
+gem 'bootstrap'
+gem 'puma', '>= 5.6.4'
+>>>>>>> master
 gem 'pg'
 gem 'redis'
 gem 'sinatra', :require => false
