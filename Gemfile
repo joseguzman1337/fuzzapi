@@ -7,9 +7,9 @@ end
 ruby '2.7.2'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 <<<<<<< HEAD
-gem 'rails', '6.1.4.2'
+gem 'rails', '7.0.2.4'
 =======
-gem 'rails', '7.0.2.3'
+gem 'rails', '7.0.2.4'
 >>>>>>> master
 # Use sqlite3 as the database for Active Record
 
